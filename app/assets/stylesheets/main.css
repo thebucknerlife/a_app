@@ -1,0 +1,16 @@
+/*
+Main Stylesheet for ari_app
+Author: Greg Buckner
+Created: April 11, 2013
+*/
+
+/*///////BASE STYLES///////*/
+
+body {
+	background: white;
+	font-size: 18;
+	color: black;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light",
+		"Helvetica Neue", sans-serif;
+	font-weight: 300;
+}
